@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_farhan"
 copyright = u"2025, Farhan Faisal"
 author = u"Farhan Faisal"
 
